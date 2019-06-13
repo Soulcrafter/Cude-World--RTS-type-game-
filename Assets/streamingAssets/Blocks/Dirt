@@ -1,0 +1,6 @@
+ID: 2
+Name: Dirt
+Shape: Cube
+RenderType: Opaque
+Illuminance: 0 0 0
+Textures: Dirt

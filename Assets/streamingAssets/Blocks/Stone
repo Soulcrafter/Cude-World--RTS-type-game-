@@ -1,0 +1,6 @@
+ID: 1
+Name: Stone
+Shape: Cube
+RenderType: Opaque
+Illuminance: 0 0 0
+Textures: Stone
